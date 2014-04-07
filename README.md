@@ -7,9 +7,9 @@ Remove all embedded iframes, images, etc
 1. Visit https://github.com/fission6/pt-no-images/raw/master/pt-no-images.zip
 Save this to your Desktop, Downloads, etc ...
 
-2. Find your download of the zip file and unzip. There should be a folder pt-no-images.zip
+2. Find your download of the zip file and unzip. There should be a new folder 'pt-no-images' created.
 
-3. Open the following url in chrome: 'chrome://chrome/extensions/'
+3. Open the following url in chrome: 'chrome://chrome/extensions/' or go to chrome extensions under 'Window' dropdown.
 
 4. Click on the Developer Mode Toggle
 
