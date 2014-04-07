@@ -1,0 +1,13 @@
+{
+  "name": "PT No Images",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "No embedded images",
+  "content_scripts": [
+    {
+      "matches": ["http://www.phantasytour.com/bands/phish/threads/*"],
+      "js": ["jquery.js", "main.js"],
+      "run_at" : "document_start"
+    }
+  ]
+}
