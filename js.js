@@ -2,6 +2,10 @@ function s4() {
     return Math.floor(65536 * (1 + Math.random())).toString(16).substring(1)
 }
 
+function test() {
+    return "test"
+}
+
 function guid() {
     return s4() + s4() + "-" + s4() + "-" + s4() + "-" + s4() + "-" + s4() + s4() + s4()
 }
